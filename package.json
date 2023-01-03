@@ -16,7 +16,7 @@
     "url": "https://github.com/jonasschmedtmann/advanced-css-course/issues"
   },
   "homepage": "https://github.com/jonasschmedtmann/advanced-css-course#readme",
-  "dependencies": {
+  "devDependencies": {
     "node-sass": "^8.0.0"
   }
 }
